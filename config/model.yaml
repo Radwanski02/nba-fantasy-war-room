@@ -1,0 +1,20 @@
+season_weights:
+  latest: 0.55
+  minus_1: 0.30
+  minus_2: 0.15
+regression:
+  rate_stat_prior_minutes: 900
+  shooting_prior_attempts: 350
+availability:
+  max_games: 82
+  age_injury_penalty_start: 31
+ranking:
+  replacement_pool_multiplier: 1.15
+  scarcity_weight: 0.12
+  upside_weight: 0.08
+  reliability_weight: 0.10
+  roster_fit_weight: 0.18
+context_caps:
+  minutes_delta: 8.0
+  usage_delta: 0.05
+  games_delta: 12.0
